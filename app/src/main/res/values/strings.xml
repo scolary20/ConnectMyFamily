@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Connect My Family</string>
+  <string name="username">Username</string>
+  <string name="password">Password</string>
+  <string name="signup_message">Don\'t have an account? </string>
+  <string name="signUp">Sign Up</string>
+  <string name="forgot_password">Forgotten Password?</string>
+</resources>
